@@ -39,7 +39,7 @@ const Quiz = () => {
 
     const handleSubmitQuiz = () => {
         const response = questions.reduce((acc, curr) => {
-            return acc+()
+            return ans
         })
         Navigate('/result')
     }
